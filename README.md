@@ -37,7 +37,8 @@ while True:
     s.send("Acknowledgement Recieved".encode())
 ```
 ## OUTPUT
-<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/09819576-03eb-4b8f-8d10-abd9b12b4447" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/500ac1f5-695d-49cc-8f36-3f1b9d0e6716" />
+
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/36aff4b0-f118-4efc-906b-40f4490198ab" />
 
 ## RESULT
